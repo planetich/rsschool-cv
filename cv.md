@@ -21,7 +21,6 @@
 * HTML
 * CSS
 * Git/Github
-* Python (base level)
 
 ## Code examples:
 
