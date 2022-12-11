@@ -1,1 +1,1 @@
-(https://planetich.github.io/rsschool-cv/cv)
+https://planetich.github.io/rsschool-cv/
